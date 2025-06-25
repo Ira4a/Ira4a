@@ -34,11 +34,12 @@
 
 ---
 
-### 📈 Contributions in the Last 52 Weeks
+### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-contributions-api.jogruber.de/api/v1/Ira4a?format=svg&theme=soft-green" alt="GitHub Contribution Chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=github-compact&area=true&hide_border=true" />
 </p>
+
 
 ---
 
