@@ -20,7 +20,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="left">
+<div float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ira4a&layout=compact&theme=tokyonight" alt="Top Languages" />
