@@ -36,7 +36,7 @@
 
 ### 📊 Contribution Graph
 
-<p align="center">
+<p align="center" background="blue">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=github-compact&area=true&hide_border=true" />
 </p>
 
