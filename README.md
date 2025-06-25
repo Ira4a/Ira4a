@@ -31,7 +31,7 @@
 ### 📈 Contributions in the Last 52 Weeks
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=github-compact&area=true&hide_border=true&bg_color=00000000&color=0099ff&line=0099ff&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=github-compact&area=true&hide_border=true&bg_color=00000000&color=0099ff&line=0099ff&point=ffad99" />
 </p>
 
 
