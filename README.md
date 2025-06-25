@@ -26,7 +26,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
   <br />
   <img src="https://streak-stats.demolab.com?user=Ira4a&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
