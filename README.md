@@ -36,10 +36,15 @@
 
 ### 📊 Contribution Graph
 
-<p align="center" background="blue">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=github-compact&area=true&hide_border=true" />
 </p>
 
-
 ---
+
+### 📈 Contributions in the Last 52 Weeks
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ira4a&theme=soft-night" alt="GitHub Streak" />
+</p>
 
