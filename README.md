@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Irada 👋</h1>
 
-<p align="center">
+<p align="left">
   🌟 Frontend Developer — but not only that.<br>
   🎨 I love bringing ideas to life with clean UI and responsive design.<br>
   ✨ Always exploring new technologies and ways to improve.
