@@ -1,7 +1,7 @@
 <h1 align="right">Hi, I'm Irada! 👋</h1>
 
 <p align="left">
-  💻 Frontend Developer • UI Enthusiast • Creative Coder<br>
+  •Frontend Developer • Creative Coder<br>
   I craft beautiful, responsive web interfaces and love bringing ideas to life.<br>
   Always exploring, always building. ✨
 </p>
