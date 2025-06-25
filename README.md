@@ -28,11 +28,12 @@
 
 ---
 
-### 📊 Contribution Graph
+### 📈 Contributions in the Last 52 Weeks
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=github-compact&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=github-compact&area=true&hide_border=true&bg_color=00000000&color=00ffff&line=00ffff&point=ffffff" />
 </p>
+
 
 ---
 
