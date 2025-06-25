@@ -1,26 +1,10 @@
-<h1 align="center">Hi, I'm Irada! 👋</h1>
+<h1 align="right">Hi, I'm Irada! 👋</h1>
 
-<p align="center">
+<p align="left">
   💻 Frontend Developer • UI Enthusiast • Creative Coder<br>
   I craft beautiful, responsive web interfaces and love bringing ideas to life.<br>
   Always exploring, always building. ✨
 </p>
-
----
-
-<div align="center">
-
-  <a href="https://t.me/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-
-</div>
 
 ---
 
@@ -55,14 +39,4 @@
 </p>
 
 ---
-
-### 🏆 Achievements
-
-- 🌟 Over **X+ contributions** this year (update based on your real number)
-- 🔥 Longest streak: check it on your GitHub
-- 💪 Current streak: growing every day
-
----
-
-> *"Great design is born of two things: simplicity and clarity."*
 
