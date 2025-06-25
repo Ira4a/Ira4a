@@ -42,9 +42,3 @@
 
 ---
 
-### 📈 Contributions in the Last 52 Weeks
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ira4a&theme=soft-night" alt="GitHub Streak" />
-</p>
-
