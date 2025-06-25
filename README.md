@@ -17,7 +17,7 @@
 </div>
 
 ---
-<div align="center" style="display:flex; flex-direction: column; gap: 10px; width: 60px; margin: auto;">  
+<div align="center" style="display:flex; flex-direction: row; gap: 10px; width: 300px; margin: auto;">  
   
 ### 📊 GitHub Stats
 
@@ -29,7 +29,7 @@
 
 ### 📈 Contributions in the Last 52 Weeks
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=github-compact&area=true&hide_border=true&bg_color=00000000&color=0099ff&line=0099ff&point=0099ff" />
 </p>
 
