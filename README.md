@@ -18,21 +18,16 @@
 
 --- 
   
-### 📊 GitHub Stats
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ira4a&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=dark" alt="GitHub Stats" width="45%" />
+
+  <!-- Contributions Graph -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ira4a&theme=dark" alt="GitHub Contribution Streak" width="45%" />
+
 </div>
 
---- 
-
-### 📈 Contributions in the Last 52 Weeks
-
-<p> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=github-compact&area=true&hide_border=true&bg_color=00000000&color=0099ff&line=0099ff&point=0099ff" />
-</p>
 
 ---
 
