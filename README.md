@@ -1,9 +1,8 @@
 <h1 align="right">Hi, I'm Irada! 👋</h1>
 
-<p align="left">
-  • Frontend Developer • Creative Coder<br>
-  I craft beautiful, responsive web interfaces and love bringing ideas to life.<br>
-  Always exploring, always building. ✨
+<p>
+- 🧠 Frontend Developer • Creative Coder  
+- 🎨 I craft beautiful, responsive web interfaces and love bringing ideas to life.
 </p>
 
 ---
@@ -31,8 +30,7 @@
 
 <div>
   
-<!-- Contribution Graph -->
-  <img src="https://ghchart.rshah.org/Ira4a" alt="Ira4a's GitHub Contribution Graph" width="90%" />
+<img src="https://ghchart.rshah.org/151515/Ira4a" alt="Ira4a's GitHub Contribution Graph" width="90%" style="background-color: #0d1117; border-radius: 10px; padding: 10px;" />
   
 </div>
 
