@@ -7,8 +7,8 @@
 
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/irada-alasgarova-74a56826a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="background: transparent; border: 1px solid   #0077b5; border-radius: 5px; padding: 5px;">
+  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-_-?style=for-the-    badge&logo=linkedin&logoColor=white&color=transparent&labelColor=transparent&border=1" alt="LinkedIn Badge">
   </a>
 
 </div>
