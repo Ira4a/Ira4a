@@ -21,13 +21,12 @@
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=dark" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=dark" width="45%" />
 
-  <!-- Contributions Graph -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ira4a&theme=dark" alt="GitHub Contribution Streak" width="45%" />
+  <!-- Contribution Graph -->
+  <img src="https://ghchart.rshah.org/Ira4a" alt="Ira4a's GitHub Contribution Graph" width="45%" />
 
 </div>
-
 
 ---
 
