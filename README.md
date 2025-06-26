@@ -1,6 +1,6 @@
 <h1 align="right">Hi, I'm Irada! 👋</h1>
 
-<p>🧠 Frontend Developer • Creative Coder  </p>
+<p>Frontend Developer | Creative Coder  </p>
 <p align="right">🎨 I craft beautiful, responsive web interfaces and love bringing ideas to life.</p>
 
 --- 
