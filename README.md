@@ -7,9 +7,9 @@
 
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-_-?style=for-the-    badge&logo=linkedin&logoColor=white&color=transparent&labelColor=transparent&border=1" alt="LinkedIn Badge">
-  </a>
+<a href="https://www.linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="32" alt="LinkedIn Icon"/>
+</a>
 
 </div>
 
