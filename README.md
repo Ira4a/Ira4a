@@ -5,7 +5,7 @@
 
 --- 
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=dark" width="50%" />
