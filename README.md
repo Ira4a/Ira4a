@@ -5,7 +5,7 @@
 
 --- 
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px;">
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=dark" width="50%" />
@@ -19,7 +19,7 @@
 
 <div>
   
-<img src="https://ghchart.rshah.org/151515/Ira4a" alt="Ira4a's GitHub Contribution Graph" width="90%" style="background-color: #0d1117; border-radius: 10px; padding: 10px;" />
+<img src="https://ghchart.rshah.org/151515/Ira4a" alt="Ira4a's GitHub Contribution Graph" width="100%" style="background-color: #0d1117; border-radius: 10px; padding: 10px;" />
   
 </div>
 
