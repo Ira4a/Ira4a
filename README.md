@@ -1,16 +1,14 @@
 <h1 align="right">Hi, I'm Irada! 👋</h1>
 
-<p>
-- 🧠 Frontend Developer • Creative Coder  
-- 🎨 I craft beautiful, responsive web interfaces and love bringing ideas to life.
-</p>
+<p>🧠 Frontend Developer • Creative Coder  </p>
+<p align="right">🎨 I craft beautiful, responsive web interfaces and love bringing ideas to life.</p>
 
 ---
 
 <div align="center">
   
   <a href="https://www.linkedin.com/in/irada-alasgarova-74a56826a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="background: transparent; border: 1px solid   #0077b5; border-radius: 5px; padding: 5px;">
   </a>
 
 </div>
