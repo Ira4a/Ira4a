@@ -3,17 +3,8 @@
 <p>🧠 Frontend Developer • Creative Coder  </p>
 <p align="right">🎨 I craft beautiful, responsive web interfaces and love bringing ideas to life.</p>
 
----
-
-<div align="center">
-  
-<a href="https://www.linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="32" alt="LinkedIn Icon"/>
-</a>
-
-</div>
-
 --- 
+
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
   <!-- GitHub Stats -->
