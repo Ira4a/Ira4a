@@ -20,7 +20,10 @@
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=dark" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=dark" width="50%" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ira4a&layout=compact&theme=dark" alt="Top Languages" width="40%" />
 
 </div>
 
