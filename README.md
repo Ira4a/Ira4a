@@ -10,7 +10,7 @@
 </div>
 
 ---
-<h2 align="center">📁 Featured Projects</h2>
+<p align="center">📁 Featured Projects</p>
 
 <table align="center">
   <tr>
