@@ -4,7 +4,7 @@
 <p>Frontend Developer | Creative Coder</p>
 <p align="right">🎨 I craft beautiful, responsive web interfaces and love bringing ideas to life.</p>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; border: 1px solid black;">
   <img src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=dark" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ira4a&layout=compact&theme=dark" width="40%" />
 </div>
@@ -15,18 +15,18 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Ira4a/Messenger">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=Messenger&theme=dark" alt="Messenger" />
-      </a>
-      <br />
-      <strong>🆕 Last Project</strong>
-    </td>
-    <td align="center" width="50%">
       <a href="https://github.com/Ira4a/Planning-calendar">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=Planning-calendar&theme=dark" alt="Planning Calendar" />
       </a>
       <br />
       <strong>⭐ Recommended</strong>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Ira4a/Messenger">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=Messenger&theme=dark" alt="Messenger" />
+      </a>
+      <br />
+      <strong>🆕 Last Project</strong>
     </td>
   </tr>
 </table>
