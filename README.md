@@ -1,4 +1,3 @@
-<!-- Навигация -->
 <p align="center">
   <a href="#slide-1">👋 About Me</a> • 
   <a href="#slide-2">📁 Projects</a>
@@ -20,15 +19,18 @@
 ---
 
 <!-- Slide 2 -->
+
 <h2 id="slide-2">📁 Featured Projects</h2>
 
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  
 ### 🆕 Last Project: [Pacman Game](https://github.com/Ira4a/Pacman-Game)
-[![Pacman Game](https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=Pacman-Game&theme=dark)](https://github.com/Ira4a/Pacman-Game)
-
----
+[![Pacman Game](https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=Pacman-Game&theme=dark)](https://github.com/Ira4a/Messenger)
 
 ### ⭐ Recommended: [Planning Calendar](https://github.com/Ira4a/Planning-calendar)
 [![Planning Calendar](https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=Planning-calendar&theme=dark)](https://github.com/Ira4a/Planning-calendar)
+
+</div>
 
 ---
 
