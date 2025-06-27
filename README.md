@@ -14,7 +14,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%" padding-right="20px">
+    <td align="center" width="50%">
       <a href="https://github.com/Ira4a/Messenger">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=Messenger&theme=dark" alt="Messenger" />
       </a>
