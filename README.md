@@ -4,7 +4,7 @@
 <p>Frontend Developer | Creative Coder</p>
 <p align="right">🎨 I craft beautiful, responsive web interfaces and love bringing ideas to life.</p>
 
-<table align="center">
+<table align="center" style="padding: 10px;">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=dark" width="400" />
