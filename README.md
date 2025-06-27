@@ -4,7 +4,7 @@
 <p>Frontend Developer | Creative Coder</p>
 <p align="right">🎨 I craft beautiful, responsive web interfaces and love bringing ideas to life.</p>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; border: 1px solid #ccc; border-radius: 6px; padding: 15px; margin: 10px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=dark" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ira4a&layout=compact&theme=dark" width="40%" />
 </div>
