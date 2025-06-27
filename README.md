@@ -1,12 +1,5 @@
-<p align="center">
-  <a href="#slide-1">👋 About Me</a> • 
-  <a href="#slide-2">📁 Projects</a>
-</p>
-
----
-
 <!-- Slide 1 -->
-<h1 id="slide-1" align="right">Hi, I'm Irada! 👋</h1>
+<h1 align="right">Hi, I'm Irada! 👋</h1>
 
 <p>Frontend Developer | Creative Coder</p>
 <p align="right">🎨 I craft beautiful, responsive web interfaces and love bringing ideas to life.</p>
@@ -17,21 +10,23 @@
 </div>
 
 ---
+<h2 align="center">📁 Featured Projects</h2>
 
-<!-- Slide 2 -->
-
-<h2 id="slide-2">📁 Featured Projects</h2>
-
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  
-### 🆕 Last Project: [Messenger](https://github.com/Ira4a/Messenger)  
-[![Messenger](https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=Messenger&theme=dark)](https://github.com/Ira4a/Messenger)
-
-### ⭐ Recommended: [Planning Calendar](https://github.com/Ira4a/Planning-calendar)
-[![Planning Calendar](https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=Planning-calendar&theme=dark)](https://github.com/Ira4a/Planning-calendar)
-
-</div>
-
----
-
-<p align="center"><a href="#slide-1">⬆️ Back to top</a></p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Ira4a/Messenger">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=Messenger&theme=dark" alt="Messenger" />
+      </a>
+      <br />
+      <strong>🆕 Last Project</strong>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Ira4a/Planning-calendar">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=Planning-calendar&theme=dark" alt="Planning Calendar" />
+      </a>
+      <br />
+      <strong>⭐ Recommended</strong>
+    </td>
+  </tr>
+</table>
