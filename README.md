@@ -24,8 +24,8 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   
-### 🆕 Last Project: [Pacman Game](https://github.com/Ira4a/Pacman-Game)
-[![Pacman Game](https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=Pacman-Game&theme=dark)](https://github.com/Ira4a/Messenger)
+### 🆕 Last Project: [Messenger](https://github.com/Ira4a/Messenger)  
+[![Messenger](https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=Messenger&theme=dark)](https://github.com/Ira4a/Messenger)
 
 ### ⭐ Recommended: [Planning Calendar](https://github.com/Ira4a/Planning-calendar)
 [![Planning Calendar](https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=Planning-calendar&theme=dark)](https://github.com/Ira4a/Planning-calendar)
