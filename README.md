@@ -7,10 +7,10 @@
 <table align="center" style="padding: 10px;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=dark" width="400" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=dark" width="500" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ira4a&layout=compact&theme=dark" width="340" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ira4a&layout=compact&theme=dark" width="500" />
     </td>
   </tr>
 </table>
@@ -22,14 +22,14 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Ira4a/Planning-calendar">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=Planning-calendar&theme=dark" alt="Planning Calendar" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=Planning-calendar&theme=dark&cache_seconds=3600" alt="Planning Calendar" />
       </a>
       <br />
       <strong>⭐ Recommended</strong>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Ira4a/Messenger">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=Messenger&theme=dark" alt="Messenger" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=Messenger&theme=dark&cache_seconds=3600" alt="Messenger" />
       </a>
       <br />
       <strong>🆕 Last Project</strong>
