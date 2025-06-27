@@ -16,7 +16,7 @@
 </table>
 
 ---
-<p align="center" size="60px">📁 Featured Projects</p>
+<p align="center">📁 Featured Projects</p>
 
 <table align="center">
   <tr>
