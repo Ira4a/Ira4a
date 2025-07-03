@@ -40,5 +40,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-contributions-api.jogruber.de/v4/Ira4a?format=svg&mode=day&color=000000&range=30" alt="GitHub Contribution Graph 30 Days" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=github&hide_border=true&area=true&color=000000&line=000000&point=000000&bg_color=00000000" />
 </p>
