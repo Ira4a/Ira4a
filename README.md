@@ -40,5 +40,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=github&hide_border=true&area=true&color=000000&line=000000&point=000000&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ira4a&hide_title=true&hide=stars,prs,issues,contribs&show_icons=true&theme=graywhite&hide_border=true&count_private=true" />
 </p>
+
