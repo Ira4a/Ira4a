@@ -28,8 +28,8 @@
       <strong>⭐ Recommended</strong>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Ira4a/Messenger">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=Messenger&theme=dark&cache_seconds=3600" alt="Messenger" />
+      <a href="https://github.com/Ira4a/runner-game">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=runner-game&theme=dark&cache_seconds=3600" alt="runner-game" />
       </a>
       <br />
       <strong>🆕 Last Project</strong>
