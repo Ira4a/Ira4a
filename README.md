@@ -1,14 +1,11 @@
 <h1 align="right">Hi, I'm Irada! 👋</h1>
 <div align="center">
-  <p style="color:#39ff14; font-size:28px; font-weight:bold; text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14, 0 0 20px #39ff14;">
-    Frontend Developer
-  </p>
-  <p style="color:#39ff14; font-size:22px; text-shadow: 0 0 5px #39ff14;">|</p>
-  <p style="color:#39ff14; font-size:28px; font-weight:bold; text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14, 0 0 20px #39ff14;">
-    Creative Coder
-  </p>
+  <p align="left" style="color:#39ff14; font-size:24px; text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14, 0 0 20px #39ff14;">Frontend Developer</p>
+  
+  <p align="center" style="color:#39ff14; font-size:20px; text-shadow: 0 0 5px #39ff14;">|</p>
+  
+  <p align="right" style="color:#39ff14; font-size:24px; text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14, 0 0 20px #39ff14;">Creative Coder</p>
 </div>
-
 
 ---
 
