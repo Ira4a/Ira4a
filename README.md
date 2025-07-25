@@ -1,6 +1,7 @@
-<!-- Slide 1 -->
-<p>Frontend Developer | Creative Coder</p>
 <h1 align="right">Hi, I'm Irada! 👋</h1>
+<p style="font-size: 13px;">Frontend Developer | Creative Coder</p>
+
+---
 
 <table align="center" style="padding: 10px;">
   <tr>
