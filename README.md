@@ -1,5 +1,5 @@
 <h1 align="right">Hi, I'm Irada! 👋</h1>
-<p style="font-size: 13px;">Frontend Developer | Creative Coder</p>
+<p style="font-size: 40px;">Frontend Developer | Creative Coder</p>
 
 ---
 
