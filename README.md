@@ -1,6 +1,6 @@
 <div>
 <h1 align="right">Hi, I'm Irada! 👋</h1>
-<p>Frontend Developer | Creative Coder</p>
+<p size="20px">Frontend Developer | Creative Coder</p>
 </div>
 
 ---
