@@ -1,7 +1,6 @@
 <!-- Slide 1 -->
-<h1 align="right">Hi, I'm Irada! 👋</h1>
-
 <p>Frontend Developer | Creative Coder</p>
+<h1 align="right">Hi, I'm Irada! 👋</h1>
 
 <table align="center" style="padding: 10px;">
   <tr>
