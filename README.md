@@ -5,27 +5,24 @@
 
 <hr />
 
-<h2 align="center">
-  <u>GitHub Stats</u>
-</h2>
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=dark&icon_color=39ff14&text_color=39ff14&title_color=0b3d02"
-    width="400"
-    alt="GitHub Stats"
-  />
-</p>
-
-<h2 align="center">
-  <u>Most Used Languages</u>
-</h2>
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ira4a&layout=compact&theme=dark&text_color=39ff14&title_color=0b3d02"
-    width="400"
-    alt="Top Languages"
-  />
-</p>
+<table align="center" cellpadding="10">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=dark&icon_color=39ff14&text_color=39ff14&title_color=0b3d02"
+        width="400"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ira4a&layout=compact&theme=dark&text_color=39ff14&title_color=0b3d02"
+        width="400"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 <hr />
 
