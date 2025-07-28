@@ -5,7 +5,7 @@
 
 <h2>
     <a href="https://ira4a.github.io/Website/">Portfolio</a> | <a href="https://www.linkedin.com/in/irada-alasgarova-74a56826a/">LinkedIn</a>
-    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  width="200"  alt="Animated Cat" />
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  width="80"  alt="Animated Cat" />
 </h2>
 
 <table align="center" style="margin-bottom: 30px;">
