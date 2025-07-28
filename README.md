@@ -1,11 +1,11 @@
 <h1 align="right">
-  <img   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlmeGdyb3p2azZza2ljY25oZWFmcHE2aTN4d2RyejgwMmxteWFjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XCxjzveGa47DOd8zuq/giphy.gif" width="450" height="100" alt="Welcome" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlmeGdyb3p2azZza2ljY25oZWFmcHE2aTN4d2RyejgwMmxteWFjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XCxjzveGa47DOd8zuq/giphy.gif" width="450" height="100" alt="Welcome" align="left">
   <i>Hi, I'm Irada!✨ </i>
 </h1>
 
 <h2 align="right">
-    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80"  alt="Animated Cat" />
-    <a href="https://ira4a.github.io/Website/">Portfolio</a> | <a href="https://www.linkedin.com/in/irada-alasgarova-74a56826a/">LinkedIn</a>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" alt="Animated Cat" align="left">
+  <a href="https://ira4a.github.io/Website/">Portfolio</a> | <a href="https://www.linkedin.com/in/irada-alasgarova-74a56826a/">LinkedIn</a>
 </h2>
 
 <table align="center" style="margin-bottom: 30px;">
