@@ -1,14 +1,14 @@
 <h1>
   <i>Hi, I'm Irada!✨ </i>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlmeGdyb3p2azZza2ljY25oZWFmcHE2aTN4d2RyejgwMmxteWFjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XCxjzveGa47DOd8zuq/giphy.gif" width="450" height="100" alt="Welcome" >  
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" alt="Animated Cat" >
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="Animated Cat" >
 </h1>
 
 <h2 align="center">
   <a href="https://ira4a.github.io/Website/">Portfolio</a> | <a href="https://www.linkedin.com/in/irada-alasgarova-74a56826a/">LinkedIn</a>
 </h2>
 
-<table align="center" style="margin-bottom: 30px;">
+<table align="center">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Ira4a/Planning-calendar" target="_blank" rel="noopener noreferrer">
@@ -18,8 +18,8 @@
         />
       </a>
       <br />
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJvMW5mdGRzeGI3YnY5ZXB6eGloZzl0ZzVtMG1rbnN1bnJnMTl3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YJ85eVpdZDy7e/giphy.gif" width="40"/>
-      <strong style="color:#1da1f2; font-size: 1.1em;">FEATURED PROJECT</strong>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJvMW5mdGRzeGI3YnY5ZXB6eGloZzl0ZzVtMG1rbnN1bnJnMTl3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YJ85eVpdZDy7e/giphy.gif" width="45"/>
+      <strong>FEATURED PROJECT</strong>
       <br />
     </td>
     <td align="center" width="50%">
@@ -30,8 +30,8 @@
         />
       </a>
       <br />
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWx3bHRjeGFwa3QzZGw5b3l5dG9qb204NzM1N3NnbzduYTY4anViaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VCyJwT1DZEWyqU95oS/giphy.gif" width="40"/>
-      <strong style="color:#1da1f2; font-size: 1.1em;">LATEST RELEASE</strong>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWx3bHRjeGFwa3QzZGw5b3l5dG9qb204NzM1N3NnbzduYTY4anViaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VCyJwT1DZEWyqU95oS/giphy.gif" width="45"/>
+      <strong>LATEST RELEASE</strong>
       <br />
     </td>
   </tr>
