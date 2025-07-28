@@ -5,7 +5,7 @@
 </h1>
 
 <h2 align="right">
-    <a href="https://ira4a.github.io/Website/">Portfolio</a> | <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>
+    <a href="https://ira4a.github.io/Website/">Portfolio</a> | <a href="https://www.linkedin.com/in/irada-alasgarova-74a56826a/">LinkedIn</a>
 </h2>
 
 <table align="center" style="margin-bottom: 30px;">
