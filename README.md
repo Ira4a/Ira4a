@@ -1,6 +1,6 @@
 <h1 align="right">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="Animated Cat" />
-  Hi, I'm Irada!
+  <strong>Hi, I'm Irada!</strong>
 </h1>
 
 <table align="center" style="margin-bottom: 30px;">
@@ -31,8 +31,6 @@
     </td>
   </tr>
 </table>
-
-<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=react&bg_color=0d1117&hide_border=true&icon_color=1da1f2&title_color=1da1f2" />
