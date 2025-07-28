@@ -20,7 +20,7 @@
     <td align="center" width="50%">
       <a href="https://github.com/Ira4a/Pacman-Game" target="_blank" rel="noopener noreferrer">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=runner-game&theme=react&bg_color=0d1117&title_color=1da1f2&text_color=ffffff&icon_color=1da1f2&border_color=1da1f2"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=Pacman-Game&theme=react&bg_color=0d1117&title_color=1da1f2&text_color=ffffff&icon_color=1da1f2&border_color=1da1f2"
           alt="Pacman-Game"
         />
       </a>
