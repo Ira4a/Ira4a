@@ -1,6 +1,6 @@
-<h1 align="right">
+<h1>
   <i>Hi, I'm Irada!✨ </i>
-  <img   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlmeGdyb3p2azZza2ljY25oZWFmcHE2aTN4d2RyejgwMmxteWFjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XCxjzveGa47DOd8zuq/giphy.gif" width="400" height="110" alt="Welcome" />
+  <img   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlmeGdyb3p2azZza2ljY25oZWFmcHE2aTN4d2RyejgwMmxteWFjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XCxjzveGa47DOd8zuq/giphy.gif" width="400" height="110" align="right" alt="Welcome" />
 </h1>
 
 <h2 align="center">
@@ -8,9 +8,9 @@
 </h2>
 
 <div align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhnZzd4cnlmNWoybGpjNXN1a21jM3I1YzV1bm03MWRicGcxbHoweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOSC6UTcLFUKJ17iPb/giphy.gif"  width="300"  alt="LED" />
-    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  width="300"  alt="Animated Cat" />
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhnZzd4cnlmNWoybGpjNXN1a21jM3I1YzV1bm03MWRicGcxbHoweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOSC6UTcLFUKJ17iPb/giphy.gif"  width="300"  alt="LED" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhnZzd4cnlmNWoybGpjNXN1a21jM3I1YzV1bm03MWRicGcxbHoweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOSC6UTcLFUKJ17iPb/giphy.gif"  width="200"  alt="LED" />
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  width="200"  alt="Animated Cat" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhnZzd4cnlmNWoybGpjNXN1a21jM3I1YzV1bm03MWRicGcxbHoweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOSC6UTcLFUKJ17iPb/giphy.gif"  width="200"  alt="LED" />
 </div>
 
 <table align="center" style="margin-bottom: 30px;">
