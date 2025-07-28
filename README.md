@@ -5,7 +5,7 @@
   
   ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=1da1f2)
 
-## 🔥 GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=react&bg_color=0d1117&hide_border=true&icon_color=1da1f2&title_color=1da1f2" />
