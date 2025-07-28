@@ -1,10 +1,12 @@
 <h1>
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="Animated Cat" />
   <strong>Hi, I'm Irada!</strong> 
-  <h2 align="right">
-    <a href="https://ira4a.github.io/Website/">Portfolio</a> | <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>
-  </h2>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjN1a3ZueGJ4ZGh3eWtxZGJtNnI1dnljaWdvanM0b2RrbWdmcjY3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVEBWRInEvNOEVS18i/giphy.gif" width="700" alt="Welcome" />
 </h1>
+
+<h2 align="right">
+    <a href="https://ira4a.github.io/Website/">Portfolio</a> | <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>
+</h2>
 
 <table align="center" style="margin-bottom: 30px;">
   <tr>
