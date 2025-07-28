@@ -1,58 +1,29 @@
-<h1 align="right">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="Animated Cat" />
-  Hi, I'm Irada!
-</h1>
+# Hi there, I'm Ira4a! 👋
 
-<hr />
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJxZ3F3bDZ2a2F0Y3VpZ2x4eW1qY2R6eGx4b2VtZ3B5cGJ1dXJ4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2d7hy9ktXNDP2/giphy.gif" width="150"/>
+  
+  ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=1da1f2)
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5tZ3V1d2JwY2h1d3J6dWJ5Z2F5bWJ6dGx1bWx6eGJtZ2N6dGJtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu3XilJ6nWJoEMM/giphy.gif" width="300"/>
+</div>
 
-<table align="center" cellpadding="10">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=dark&icon_color=39ff14&text_color=39ff14&title_color=0b3d02"
-        width="400"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ira4a&layout=compact&theme=dark&text_color=39ff14&title_color=0b3d02"
-        width="400"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
+## 🔥 GitHub Stats
 
-<hr />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=react&bg_color=0d1117&hide_border=true&icon_color=1da1f2&title_color=1da1f2" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ira4a&layout=compact&theme=react&bg_color=0d1117&hide_border=true&title_color=1da1f2" />
+</div>
 
-<table align="center" style="margin-bottom: 30px;">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Ira4a/Planning-calendar" target="_blank" rel="noopener noreferrer">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=Planning-calendar&theme=dark&title_color=0b3d02&text_color=39ff14&icon_color=39ff14"
-          alt="Planning Calendar"
-        />
-      </a>
-      <br />
-      <strong style="color:#39ff14;">⭐ RECOMMENDED</strong>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Ira4a/runner-game" target="_blank" rel="noopener noreferrer">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=runner-game&theme=dark&title_color=0b3d02&text_color=39ff14&icon_color=39ff14"
-          alt="Runner Game"
-        />
-      </a>
-      <br />
-      <strong style="color:#39ff14;">🆕 LAST PROJECT</strong>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ira4a&theme=react&background=0d1117&border=1da1f2&stroke=1da1f2&ring=1da1f2&fire=1da1f2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
+</div>
 
-<hr />
+## 🚀 Recommended Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=github&hide_border=true&area=true&color=000000&line=000000&point=000000&bg_color=00000000" />
-</p>
+Here are some projects you might want to highlight:
+
+```markdown
+- [Project 1](https://github.com/Ira4a/project1) - Short description
+- [Project 2](https://github.com/Ira4a/project2) - Short description
+- [Project 3](https://github.com/Ira4a/project3) - Short description
