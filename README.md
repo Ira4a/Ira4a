@@ -1,7 +1,7 @@
 <h1>
   <i>✨Hi, I'm Irada!✨</i>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlmeGdyb3p2azZza2ljY25oZWFmcHE2aTN4d2RyejgwMmxteWFjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XCxjzveGa47DOd8zuq/giphy.gif" width="450" height="100" alt="Welcome">  
-   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm92ajMxZ3F1dTJtMHdiZHpybjR6aWRidTM0a2hlbW52NGUyOTJmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tEVn39veXFA9PHHmJM/giphy.gif" width="200" alt="Whale"> 
+  <p>Front-end developer and 3D artist</p>
 </h1>
 
 <h2 align="center">
