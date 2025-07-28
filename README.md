@@ -1,6 +1,6 @@
 <h1>
   <i>Hi, I'm Irada!✨ </i>
-  <img   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlmeGdyb3p2azZza2ljY25oZWFmcHE2aTN4d2RyejgwMmxteWFjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XCxjzveGa47DOd8zuq/giphy.gif" width="400" align="right" alt="Welcome" />
+  <img   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlmeGdyb3p2azZza2ljY25oZWFmcHE2aTN4d2RyejgwMmxteWFjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XCxjzveGa47DOd8zuq/giphy.gif" width="450" height="100" align="right" alt="Welcome" />
 </h1>
 
 <h2 align="center">
