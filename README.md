@@ -1,9 +1,8 @@
-<h1>
-  <i>Hi, I'm Irada!✨ </i>
-  <div align="right">
-    <img   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlmeGdyb3p2azZza2ljY25oZWFmcHE2aTN4d2RyejgwMmxteWFjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XCxjzveGa47DOd8zuq/giphy.gif" width="400" height="110"  alt="Welcome" />
-  </div>
-</h1>
+<div>
+  <h1><i>Hi, I'm Irada!✨ </i></h1>
+  <img   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlmeGdyb3p2azZza2ljY25oZWFmcHE2aTN4d2RyejgwMmxteWFjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XCxjzveGa47DOd8zuq/giphy.gif" width="400" height="110"  alt="Welcome" />
+</div>
+
 
 <h2 align="center">
     <a href="https://ira4a.github.io/Website/">Portfolio</a> | <a href="https://www.linkedin.com/in/irada-alasgarova-74a56826a/">LinkedIn</a>
