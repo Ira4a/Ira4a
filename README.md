@@ -4,7 +4,7 @@
   text-shadow: 0 0 10px #00ccff, 0 0 20px #0066cc;
   margin-bottom: 10px;
 ">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="48" alt="Animated Cat" style="vertical-align: middle; image-rendering: pixelated; margin-right: 12px;" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="55" alt="Animated Cat" style="vertical-align: middle; image-rendering: pixelated; margin-right: 12px;" />
   Hi, I'm Irada!
 </h1>
 
@@ -22,16 +22,6 @@
 </table>
 
 <hr style="border: 1px dashed #005577; margin: 30px 0;" />
-
-<p align="center" style="
-  font-family: monospace;
-  font-size: 12px;
-  color: #00ccff;
-  text-shadow: 0 0 8px #0099ff;
-  margin-bottom: 15px;
-">
-  📁 FEATURED PROJECTS
-</p>
 
 <table align="center" style="margin-bottom: 30px;">
   <tr>
@@ -55,5 +45,5 @@
 <hr style="border: 1px dashed #005577; margin-bottom: 25px;" />
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=github-compact&hide_border=true&area=true&color=0099ff&line=00ccff&point=00ccff&bg_color=0a1e2a00" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=github&hide_border=true&area=true&color=000000&line=000000&point=000000&bg_color=00000000" />
 </p>
