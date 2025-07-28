@@ -1,6 +1,6 @@
 <h1 align="right">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="Animated Cat" />
-  <strong>Hi, I'm Irada!</strong>
+  <strong>Hi, I'm Irada!</strong> <a href="https://ira4a.github.io/Website/">Portfolio</a> | <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>
 </h1>
 
 <table align="center" style="margin-bottom: 30px;">
