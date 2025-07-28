@@ -2,10 +2,14 @@
   <i>Hi, I'm Irada!✨ </i>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlmeGdyb3p2azZza2ljY25oZWFmcHE2aTN4d2RyejgwMmxteWFjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XCxjzveGa47DOd8zuq/giphy.gif" width="400" height="110" align="right" alt="Welcome" />
 </h1>
-    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  width="90"  alt="Animated Cat" />
+
 <h2 align="center">
     <a href="https://ira4a.github.io/Website/">Portfolio</a> | <a href="https://www.linkedin.com/in/irada-alasgarova-74a56826a/">LinkedIn</a>
 </h2>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  width="90"  alt="Animated Cat" />
+</div>
 
 <table align="center" style="margin-bottom: 30px;">
   <tr>
