@@ -4,7 +4,7 @@
   text-shadow: 0 0 10px #00ccff, 0 0 20px #0066cc;
   margin-bottom: 10px;
 ">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="65" alt="Animated Cat" style="vertical-align: middle; image-rendering: pixelated; margin-right: 12px;" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" alt="Animated Cat" style="vertical-align: middle; image-rendering: pixelated; margin-right: 12px;" />
   Hi, I'm Irada!
 </h1>
 
