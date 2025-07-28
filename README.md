@@ -47,6 +47,3 @@
 
  ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=1da1f2)
  
- <div align="right">
-   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" alt="Animated Cat" >
- </div>
