@@ -40,10 +40,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ira4a&layout=compact&theme=react&bg_color=0d1117&hide_border=true&title_color=1da1f2" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ira4a&theme=react&background=0d1117&border=1da1f2&stroke=1da1f2&ring=1da1f2&fire=1da1f2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
-</div>
-
  ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=1da1f2)
 
 
