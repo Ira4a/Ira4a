@@ -1,37 +1,54 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/XCxjzveGa47DOd8zuq/giphy.gif" width="450"/>
-</h1>
+<h1 align="center">👋 Hi, I'm Irada</h1>
 
-<h2 align="center">
-  <a href="https://ira4a.github.io/Website/">Portfolio</a> |
-  <a href="https://www.linkedin.com/in/irada-alasgarova-74a56826a/">LinkedIn</a>
-</h2>
+<p align="center">
+Frontend Developer • JavaScript • React
+</p>
+
+<p align="center">
+  <a href="https://ira4a.github.io/Website/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/irada-alasgarova-74a56826a/">💼 LinkedIn</a>
+</p>
 
 ---
 
 ## 🚀 Projects
 
-<p align="center">
-  <a href="https://github.com/Ira4a/Planning-calendar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=Planning-calendar&theme=react"/>
-  </a>
+### 📅 Planning Calendar
+Web planner for scheduling tasks and events.
 
-  <a href="https://github.com/Ira4a/runner-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ira4a&repo=runner-game&theme=react"/>
-  </a>
-</p>
+🔗 https://github.com/Ira4a/Planning-calendar
 
 ---
 
-## 📊 GitHub Stats
+### 🏃 Runner Game
+Simple browser runner game built with JavaScript.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=react"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ira4a&layout=compact&theme=react"/>
-</p>
+🔗 https://github.com/Ira4a/runner-game
 
 ---
 
-## 📈 Contribution Graph
+## 🛠️ Tech Stack
 
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=react-dark)
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+---
+
+## 📊 GitHub
+
+- 🔭 Currently working on: Frontend projects  
+- 🌱 Learning: Advanced React & TypeScript  
+- 💡 Interested in: UI/UX & Web Apps  
+
+---
+
+## 📫 Contact
+
+- Portfolio: https://ira4a.github.io/Website/
+- LinkedIn: https://www.linkedin.com/in/irada-alasgarova-74a56826a/
+
+---
+
+⭐️ From [Ira4a](https://github.com/Ira4a)
