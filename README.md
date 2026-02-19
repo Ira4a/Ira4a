@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,css,mysql,symfony" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,mysql,php,symfony" />
 </p>
 
 ---
