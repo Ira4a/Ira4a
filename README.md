@@ -7,7 +7,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,css,posgresql,symfony,php" />
+  <img src="https://skillicons.dev/icons?i=js,css,mysql,symfony" />
 </p>
 
 ---
