@@ -6,20 +6,28 @@
 </p>
 
 ---
+## 🛠️ Tech Stack
 
-## 🚀 Projects
-
-### 📅 Planning Calendar
-Web planner for scheduling tasks and events.
-
-🔗 https://github.com/Ira4a/Planning-calendar
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,rust,git,linux,docker" />
+</p>
 
 ---
 
-### 🏃 Runner Game
-Simple browser runner game built with JavaScript.
+## 📈 Activity Graph
 
-🔗 https://github.com/Ira4a/runner-game
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=minimal" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ira4a&layout=compact&theme=default" height="160" />
+</p>
 
 ---
 
