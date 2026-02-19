@@ -18,5 +18,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=minimal" />
 </p>
 
---
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ira4a&layout=compact" />
+</p>
+
+---
 
