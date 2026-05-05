@@ -8,8 +8,20 @@
 
 ---
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-00ffff?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-</p>
+<table width="100%">
+<tr>
+<td align="left" width="40%">
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-00ffff?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+</td>
+
+<td align="right" width="60%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&title_color=ff00ff&text_color=ffffff&bg_color=0d0d0d"/>
+
+</td>
+</tr>
+</table>
