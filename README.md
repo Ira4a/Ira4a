@@ -20,7 +20,7 @@
 
 <td align="right" width="60%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&title_color=ff00ff&text_color=ffffff&bg_color=0d0d0d"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ira4a&layout=compact&theme=radical&title_color=ff00ff&text_color=ffffff&bg_color=0d0d0d"/>
 
 </td>
 </tr>
