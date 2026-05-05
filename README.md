@@ -18,7 +18,7 @@
 </a>
 <br><br>
 <a href="https://ira4a.github.io/Website/">
-  <img src="https://img.shields.io/badge/Website-ff00ff?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Website-ff00ff?style=for-the-badge"/>
 </a>
 
 </td>
