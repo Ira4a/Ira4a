@@ -13,5 +13,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-00ffff?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ira4a&layout=compact&theme=radical&cache_seconds=1800"/>
+  <img src="https://streak-stats.demolab.com?user=Ira4a&theme=radical"/>
 </p>
