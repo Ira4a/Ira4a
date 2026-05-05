@@ -8,10 +8,26 @@
 
 ---
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-00ffff?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=Ira4a&theme=radical"/>
-</p>
+<table width="100%">
+<tr>
+
+<td align="center" width="35%">
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-00ffff?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+<br><br>
+<a href="https://ira4a.github.io/Website/">
+  <img src="https://img.shields.io/badge/Website-ff00ff?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center" width="65%">
+
+<img src="https://streak-stats.demolab.com?user=Ira4a&theme=radical&border_radius=10"/>
+
+</td>
+
+</tr>
+</table>
