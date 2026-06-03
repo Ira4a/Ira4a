@@ -23,7 +23,7 @@
 
 </td>
 
-<td align="center" width="65%">
+<td align="center" width="70%">
 
 <img src="https://streak-stats.demolab.com?user=Ira4a&theme=radical&border_radius=10"/>
 
