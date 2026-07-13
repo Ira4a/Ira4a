@@ -31,7 +31,9 @@
 
 <p align="center">
 
-<img width="80%" src="https://streak-stats.demolab.com?user=Ira4a&theme=transparent&hide_border=true&ring=8B5CF6&fire=FF4DFF&currStreakLabel=00F5FF"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&hide_border=true&bg_color=00000000&theme=transparent&title_color=8B5CF6&icon_color=00F5FF"/>
+
+<img height="160" src="https://streak-stats.demolab.com?user=Ira4a&theme=transparent&hide_border=true"/>
 
 </p>
 
