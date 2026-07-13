@@ -23,7 +23,9 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=github-compact&hide_border=true"/>
+<p align="center">
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Ira4a&theme=algolia&column=6&margin-w=8&margin-h=8&no-frame=true&no-bg=true"/>
+</p>
 
 <br> 
 
