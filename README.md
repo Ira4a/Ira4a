@@ -8,14 +8,13 @@
 
 <br>
 
-## Featured Projects
 <p align="center">
 <a href="https://github.com/Ira4a/Planning-calendar">
 <img width="30%" src="./assets/1.jpg"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Ira4a/runner-game">
-<img width="30%" src="./assets/2.jpg"/>
+<img width="27%" src="./assets/2.jpg"/>
 </a>
 </p>
 
