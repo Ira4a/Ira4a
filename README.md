@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=42&duration=3500&pause=800&color=FF4DFF&center=true&vCenter=true&width=900&lines=Welcome+to+My+Universe;Neon+Lights+%7C+Code+Nights;Building+Beautiful+Software;Stay+Groovy+%E2%9C%A8"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=42&duration=3500&pause=800&color=FF4DFF&center=true&vCenter=true&width=900&lines=Welcome+to+My+Universe;Neon+Lights+%7C+Code+Nights;Stay+Groovy+:)"/>
 </h1>
 
 <p align="center">
