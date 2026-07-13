@@ -23,7 +23,7 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=xcode&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=github-compact&hide_border=true"/>
 
 <br> 
 
