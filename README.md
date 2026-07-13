@@ -27,16 +27,6 @@
 <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Ira4a&theme=algolia&column=6&margin-w=8&margin-h=8&no-frame=true&no-bg=true"/>
 </p>
 
-<br> 
-
-<p align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&hide_border=true&bg_color=00000000&theme=transparent&title_color=8B5CF6&icon_color=00F5FF"/>
-
-<img height="160" src="https://streak-stats.demolab.com?user=Ira4a&theme=transparent&hide_border=true"/>
-
-</p>
-
 <br>
 
 <p align="center"> 
