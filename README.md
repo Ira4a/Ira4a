@@ -6,8 +6,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:00F5FF,50:8B5CF6,100:FF00FF&section=header"/>
 </p>
 
-<br>
-
 <p align="center">
 <a href="https://github.com/Ira4a/Planning-calendar">
 <img width="30%" src="./assets/1.jpg"/>
