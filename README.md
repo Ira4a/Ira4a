@@ -24,11 +24,11 @@
 <br>
 
 <p align="center">
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Ira4a&theme=algolia&column=6&margin-w=8&margin-h=8&no-frame=true&no-bg=true"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=Ira4a&theme=transparent&hide_border=true&ring=8B5CF6&fire=FF4DFF&currStreakLabel=00F5FF"/>
 </p>
 
 <br>
 
-<p align="center"> 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:00F5FF,50:8B5CF6,100:FF00FF&section=header"/> 
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:00F5FF,50:8B5CF6,100:FF00FF&section=header"/>
 </p>
