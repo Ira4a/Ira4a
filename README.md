@@ -6,6 +6,21 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:00F5FF,50:8B5CF6,100:FF00FF&section=header"/>
 </p>
 
+<br>
+
+<h2 align="center">Featured Projects</h2>
+<p align="center">
+<a href="https://github.com/Ira4a/Planning-calendar">
+<img width="47%" src="./assets/1.png"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Ira4a/runner-game">
+<img width="47%" src="./assets/2.png"/>
+</a>
+</p>
+
+<br>
+
 <p align="center">
 
 <a href="https://ira4a.github.io/Website/">
