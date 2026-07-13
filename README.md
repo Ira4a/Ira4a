@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/GitHub-F8FAFC?style=for-the-badge&logo=github&logoColor=111827"/>
 </a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/irada-alasgarova-74a56826a/">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/irada-alasgarova/">
 <img src="https://img.shields.io/badge/LinkedIn-F8FAFC?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
 </a>
 
