@@ -23,7 +23,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Ira4a&style=flat-square&color=blueviolet"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=tokyo-night&hide_border=true"/>
 
 <br> 
 
