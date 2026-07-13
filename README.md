@@ -32,6 +32,6 @@
 
 <br>
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:FF00FF,50:8B5CF6,100:00F5FF&section=header"/>
+<p align="center"> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:00F5FF,50:8B5CF6,100:FF00FF&section=header"/> 
 </p>
