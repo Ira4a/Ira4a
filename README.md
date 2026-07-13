@@ -19,10 +19,13 @@
 <a href="https://www.linkedin.com/in/irada-alasgarova-74a56826a/">
 <img src="https://img.shields.io/badge/LinkedIn-F8FAFC?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
 </a>
-
 </p>
 
 <br>
+
+<img src="https://komarev.com/ghpvc/?username=Ira4a&style=flat-square&color=blueviolet"/>
+
+<br> 
 
 <p align="center">
 
