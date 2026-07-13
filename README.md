@@ -14,7 +14,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Ira4a/runner-game">
-<img width="27%" src="./assets/2.jpg"/>
+<img width="28%" src="./assets/2.jpg"/>
 </a>
 </p>
 
