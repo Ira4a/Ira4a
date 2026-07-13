@@ -22,84 +22,13 @@
 
 </p>
 
-<p align="center">
-
-> **Building elegant software with modern technologies.**
-
-</p>
-
-<br>
-
-# 👋 About Me
-
-```text
-Software Engineer
-
-• AI Development
-• Full Stack Development
-• Cloud Technologies
-• UI / UX Design
-
-I enjoy building elegant digital experiences,
-clean architectures,
-and software that people genuinely enjoy using.
-```
-
 <br>
 
 # ✨ GitHub Dashboard
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=00F5FF&text_color=FFFFFF"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Ira4a&theme=transparent&hide_border=true&ring=8B5CF6&fire=FF4DFF&currStreakLabel=00F5FF"/>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ira4a&layout=compact&theme=transparent&hide_border=true&title_color=FF4DFF&text_color=FFFFFF"/>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ira4a&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=8B5CF6&point=FF4DFF"/>
-
-</p>
-
-<br>
-
-# 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,js,ts,react,nodejs,dotnet,docker,git,linux,vscode&perline=6"/>
-
-</p>
-
-<br>
-
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ira4a&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=20"/>
-
-</p>
-
-<br>
-
-# 💭 Philosophy
-
-<p align="center">
-
-> **"Creating software that feels effortless."**
+<img width="50%" src="https://streak-stats.demolab.com?user=Ira4a&theme=transparent&hide_border=true&ring=8B5CF6&fire=FF4DFF&currStreakLabel=00F5FF"/>
 
 </p>
 
