@@ -16,16 +16,14 @@
 </a>
 </p>
 
-<br>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</p>
 
 <p align="center">
 
 <a href="https://ira4a.github.io/Website/">
 <img src="https://img.shields.io/badge/Portfolio-F8FAFC?style=for-the-badge&logo=safari&logoColor=111827"/>
-</a>
-
-<a href="https://github.com/Ira4a">
-<img src="https://img.shields.io/badge/GitHub-F8FAFC?style=for-the-badge&logo=github&logoColor=111827"/>
 </a>
 
 <a href="https://www.linkedin.com/in/irada-alasgarova-74a56826a/">
