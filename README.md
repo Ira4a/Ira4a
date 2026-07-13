@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-<img width="50%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient"/>
+<img width="50%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 </p>
 
 <p align="center">
