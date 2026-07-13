@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ira4a/Ira4a/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Ira4a/Ira4a/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 <p align="center">
