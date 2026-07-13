@@ -1,74 +1,100 @@
-<!--- ### ⚛️ Liquid Glass Profile для Ira4a --->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=600&lines=Ira4a+%F0%9F%92%BB;Full-Stack+Alchemist;UI%2FUX+Enthusiast;Cyberpunk+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=42&duration=3500&pause=800&color=FF4DFF&center=true&vCenter=true&width=900&lines=Welcome+to+My+Universe;Neon+Lights+%7C+Code+Nights;Building+Beautiful+Software;Stay+Groovy+%E2%9C%A8" />
 </h1>
 
-<!-- СТЕКЛЯННАЯ ПАНЕЛЬ СТАТИСТИКИ -->
-<div align="center">
-  <table style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border-radius: 24px; border: 1px solid rgba(255, 255, 255, 0.15); padding: 20px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.6); margin: 20px 0;">
-    <tr>
-      <td align="center" style="padding: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&hide_border=true&title_color=00D4FF&icon_color=FF00FF&text_color=FFFFFF&bg_color=0D1117&ring_color=00D4FF&border_radius=16&include_all_commits=true&count_private=true" width="400" />
-      </td>
-      <td align="center" style="padding: 20px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Ira4a&theme=transparent&hide_border=true&background=0D1117&ring=FF00FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=FFFFFF&border_radius=16" width="400" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:8B5CF6,100:FF00FF&height=120&section=header"/>
+</p>
 
-<!-- СТЕКЛЯННАЯ ПАНЕЛЬ ЯЗЫКОВ И ИКОНОК -->
-<div align="center">
-  <table style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border-radius: 24px; border: 1px solid rgba(255, 255, 255, 0.15); padding: 20px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.6); margin: 20px 0; width: 100%;">
-    <tr>
-      <td align="center" style="padding: 20px; width: 50%;">
-        <h3 style="color: #00D4FF; font-family: Orbitron, sans-serif;">⚡ ТЕХ-СТЕК</h3>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <br>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      </td>
-      <td align="center" style="padding: 20px; width: 50%;">
-        <h3 style="color: #FF00FF; font-family: Orbitron, sans-serif;">🌐 КОННЕКТ</h3>
-        <a href="https://linkedin.com/in/YOUR_LINK">
-          <img src="https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=black" />
-        </a>
-        <a href="https://ira4a.github.io/Website/">
-          <img src="https://img.shields.io/badge/Website-FF00FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-        </a>
-        <a href="https://github.com/Ira4a">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<br>
 
-<!-- СТЕКЛЯННАЯ ПАНЕЛЬ ДОСТИЖЕНИЙ -->
-<div align="center">
-  <table style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border-radius: 24px; border: 1px solid rgba(255, 255, 255, 0.15); padding: 20px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.6); margin: 20px 0; width: 100%;">
-    <tr>
-      <td align="center" style="padding: 15px;">
-        <h2 style="color: #00D4FF; margin: 0;">🎯 585</h2>
-        <p style="color: #FFFFFF; margin: 0;">вкладов за год</p>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <h2 style="color: #FF00FF; margin: 0;">🔥 35</h2>
-        <p style="color: #FFFFFF; margin: 0;">вкладов за июль 2026</p>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <h2 style="color: #00D4FF; margin: 0;">📅 13.07</h2>
-        <p style="color: #FFFFFF; margin: 0;">последняя активность</p>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
 
-<!-- НЕОНОВАЯ ПОДПИСЬ -->
-<p align="center" style="color: #FFFFFF; font-family: 'Courier New', monospace; text-shadow: 0 0 10px #00D4FF, 0 0 20px #FF00FF;">
-  💡 "Код — это поэзия, а неон — это настроение" — Ira4a
+<a href="https://ira4a.github.io/Website/">
+<img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=safari&logoColor=111111&labelColor=EAF8FF"/>
+</a>
+
+<a href="https://github.com/Ira4a">
+<img src="https://img.shields.io/badge/GitHub-EEF8FF?style=for-the-badge&logo=github&logoColor=111111"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-EAFBFF?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
+</a>
+
+</p>
+
+---
+
+## ✦ About Me
+
+```yaml
+Name: Ira
+
+Focus:
+  - AI
+  - Full Stack Development
+  - UI / UX
+  - Cloud
+
+Passion:
+  Creating elegant software,
+  modern interfaces,
+  and meaningful digital experiences.
+
+Currently:
+  Building cool things ✨
+```
+
+---
+
+## ✦ GitHub Overview
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ira4a&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=00F5FF&text_color=FFFFFF"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Ira4a&theme=transparent&hide_border=true"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ira4a&layout=compact&theme=transparent&hide_border=true&title_color=FF4DFF&text_color=FFFFFF"/>
+
+</p>
+
+---
+
+## ✦ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,cs,js,ts,react,nodejs,dotnet,docker,git,linux,vscode&perline=6"/>
+
+</p>
+
+---
+
+## ✦ Current Focus
+
+> Designing beautiful software with clean architecture, modern UI,
+> and scalable backend solutions.
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ira4a&theme=algolia&no-frame=true&margin-w=15&column=4"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:8B5CF6,100:FF00FF&height=120&section=footer"/>
+
 </p>
