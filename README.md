@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Ira4a/Ira4a/output/github-contribution-grid-snake-dark.svg">
-</p>
-
-<p align="center">
 
 <a href="https://ira4a.github.io/Website/">
 <img src="https://img.shields.io/badge/Portfolio-F8FAFC?style=for-the-badge&logo=safari&logoColor=111827"/>
