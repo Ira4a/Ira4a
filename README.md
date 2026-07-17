@@ -34,7 +34,7 @@
 <br>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ira4a"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=Ira4a&theme=transparent&hide_border=true&ring=8B5CF6&fire=FF4DFF&currStreakLabel=00F5FF"/>
 </p>
 
 <br>
