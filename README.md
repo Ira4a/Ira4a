@@ -34,7 +34,7 @@
 <br>
 
 <p align="center">
-<img width="80%" src="https://streak-stats.demolab.com?user=Ira4a&theme=transparent&hide_border=true&ring=8B5CF6&fire=FF4DFF&currStreakLabel=00F5FF"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=Ira4a&theme=transparent&hide_border=true&ring=8B5CF6&fire=FF4DFF&currStreakLabel=00F5FF&border_radius=12&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 <br>
